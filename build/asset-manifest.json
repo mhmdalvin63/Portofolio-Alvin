@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portofolio-Alvin/static/css/main.26c04c2b.css",
+    "main.js": "/Portofolio-Alvin/static/js/main.6a8ab859.js",
+    "static/js/453.e79aba34.chunk.js": "/Portofolio-Alvin/static/js/453.e79aba34.chunk.js",
+    "static/media/img-header.png": "/Portofolio-Alvin/static/media/img-header.5dbbf4b6a457daa6cc00.png",
+    "index.html": "/Portofolio-Alvin/index.html",
+    "main.26c04c2b.css.map": "/Portofolio-Alvin/static/css/main.26c04c2b.css.map",
+    "main.6a8ab859.js.map": "/Portofolio-Alvin/static/js/main.6a8ab859.js.map",
+    "453.e79aba34.chunk.js.map": "/Portofolio-Alvin/static/js/453.e79aba34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c04c2b.css",
+    "static/js/main.6a8ab859.js"
+  ]
+}
