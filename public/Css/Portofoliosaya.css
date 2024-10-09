@@ -1,0 +1,13 @@
+.konten-porto{
+    background-color: none !important;
+    border: 1px solid #ffffff;
+    padding: .5rem 1rem;
+    border-bottom: 2px solid #ffffff;
+    border-radius: 0 10px 10px 10px;
+}
+.framework{
+    background-color: #E1CE00;
+    width: max-content;
+    padding: .5rem 1.5rem;
+    border-radius: 10px 10px 0 0;
+}
