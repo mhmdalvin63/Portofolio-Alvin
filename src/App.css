@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+Body{
+  font-family: "Poppins", system-ui;
+  color: white !important;
+  font-size: 16px;
+}
+.pop{
+  font-family: "Poppins", system-ui !important;
+}
+span{
+  margin: 0 !important;
+  font-family: "Poppins", system-ui !important;
+}
+p{
+  font-size: calc(.25rem + 1vw) !important;
+  margin: 0 !important;
+  font-family: "Poppins", system-ui !important;
+}
+/* h1 dimensi <768 ubah */
+h1{
+  font-size: calc(3rem + 1vw) !important;
+  margin: 0 !important;
+  font-family: "Poppins", system-ui !important;
+}
+h5{
+  font-size: calc(.5rem + 1vw) !important;
+  margin: 0 !important;
+  font-family: "Poppins", system-ui !important;
+}
+h3{
+  margin: 0 !important;
+  font-family: "Poppins", system-ui !important;
+}
+.fwb{
+  font-weight: bold;
+}
+.text-yellow{
+  color: #E1CE00;
+}
+.text-purple{
+  color: #2E073F;
+}
+.bg-yellow{
+  background-color: #E1CE00;
+}
+
+#header{
+  min-height: 100vh;
+  height: max-content;
+  background-color: #2E073F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Tentangsaya{
+  min-height: 100vh;
+  height: max-content;
+  background-color: #41065B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Skillsaya{
+  min-height: 100vh;
+  height: max-content;
+  background-color: #2E073F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Pengalamansaya{
+  min-height: 100vh;
+  height: max-content;
+  background-color: #41065B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Portofoliosaya{
+  height: max-content;
+  background-color: #2E073F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+  h1{
+    font-size: calc(1.75rem + 1vw) !important;
+  }
+  p{
+    font-size: calc(.4rem + 1vw) !important;
+  }
+}

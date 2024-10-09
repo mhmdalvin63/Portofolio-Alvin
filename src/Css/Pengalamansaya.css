@@ -1,0 +1,28 @@
+.cover{
+    width: 100%;
+}
+.tahun{
+    background-color: #E1CE00;
+    width: max-content;
+    padding: .5rem 1.5rem;
+    border-radius: 10px 10px 0 0;
+}
+.konten{
+    background-color: #E1CE00;
+    padding: .5rem 1rem;
+    border-radius: 0 10px 10px 10px;
+}
+#konten-kanan{
+    border-radius: 10px 0 10px 10px;
+}
+li::marker {
+    font-size: .75em; /* Ukuran bullet */
+    color: #ffffff; /* Mengubah warna bullet */
+}
+.judul-konten{
+    background-color: #E1CE00;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
